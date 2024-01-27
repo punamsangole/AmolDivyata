@@ -7,6 +7,8 @@ public class Student {
 		System.out.println("divyata main");
 		System.out.println("amol local");
 		System.out.println("divyata main");
+		System.out.println("amol local");
+		System.out.println("divyata main");
 	}
 
 }
